@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @SpringBootApplication
-@ActiveProfiles("log-group")
 public class LogGroupApplication {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(LogGroupApplication.class);

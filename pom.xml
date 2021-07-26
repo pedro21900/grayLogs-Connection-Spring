@@ -50,7 +50,6 @@
 	<groupId>org.graylog2</groupId>
 	<artifactId>gelfj</artifactId>
 	<version>${gelfj.version}</version>
-	<scope>compile</scope>
 </dependency>
 	<dependency>
 		<groupId>junit</groupId>
